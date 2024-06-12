@@ -35,6 +35,9 @@ To build an APK:
 2. Start adding your expenses with respective details.
 3. Set budgets and track expenses to manage finances efficiently.
 
+## Screenshot
+![image](https://github.com/Robino0aashu/Expense-Manager/assets/103640421/406e2e0b-ab85-49ed-833c-3657a019825d)
+
 
 ## Future Improvements
 
